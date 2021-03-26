@@ -1,0 +1,41 @@
+/* CSS Document */
+th {
+	background:#000033;
+	color:#FFFF99;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px
+}
+
+td	{
+	 color:#000000;
+	 font-family: Tahoma;
+	 font-size:11px;
+	 }
+	 
+.textmenu{
+	 font-family: Calibri;
+	 font-size:10px;
+	 font-style:normal;
+	 font-variant:normal;
+	 font-weight:bold;
+	 color:#CCCC00;
+	 background-color:#000033;
+	 }
+	 
+.textmenuitem{
+	font-family:Calibri;
+	font-size:10px;
+	font-style: normal;
+	font-weight:normal;
+	color:#000033;
+	background-color:#CCC0CC;
+	}
+	
+.textmenuar{
+	font-family:verdana;
+	font-size:8px;
+	font-style: normal;
+	font-weight:normal;
+	color:#FFF;
+	background-color:#FF6660;
+	}
